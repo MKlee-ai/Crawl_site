@@ -1,5 +1,5 @@
 ---
-title: 검제 키우기 — 전투·무기·스탯 설계
+title: Sword Emperor Hurick — 전투·무기·스탯 설계
 date: 2026-10-08
 status: draft
 version: 0.2

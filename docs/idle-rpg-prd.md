@@ -1,12 +1,12 @@
 ---
-title: 검제 키우기 (Sword Emperor Hurick) — 픽셀 방치형 RPG PRD
+title: Sword Emperor Hurick (검제 키우기: 휴릭) — PRD
 date: 2026-10-08
 status: draft
 version: 0.3
 tags: [game, idle-rpg, pixel-art, android, prd]
 ---
 
-# 검제 키우기 (가제) — PRD v0.3
+# Sword Emperor Hurick (검제 키우기: 휴릭) — PRD v0.3
 
 > 세로형 **픽셀 방치형 RPG** / Android 우선 / 해외 출시 고려
 > 전투·무기·스탯 상세 설계는 [[idle-rpg-combat]] (`docs/idle-rpg-combat.md`) 참고.
@@ -17,12 +17,12 @@ tags: [game, idle-rpg, pixel-art, android, prd]
 |---|---|---|---|
 | 1 | 스토리 | 탑 등반 + **중세 유럽 정통 판타지** | v0.2 |
 | 2 | 주인공 | 검사 **휴릭 (Hurick)** — 모든 무기를 다루는 "검제"가 되는 것이 목표 | v0.3 |
-| 3 | 가제 | KR **검제 키우기** / EN 후보는 §9 | v0.3 |
+| 3 | 제목 | **Sword Emperor Hurick** / KR **검제 키우기: 휴릭** (확정, 상표 검색 필요) | v0.3 |
 | 4 | 스탯 | **STAB(찌르기) · HACK(베기) · INT(마력)** 3종 | v0.3 |
 | 5 | 무기 | 8종, **종류 간 상하 관계 없음**(취향), 공속↔공격력 반비례, 평도로 시작해 Stage 진행으로 해금 | v0.3 |
 | 6 | 아트 | 도트(픽셀 아트) | v0.2 |
 | 7 | 플랫폼 | Android 우선 | v0.2 |
-| 8 | 저장소 | 게임 전용 새 저장소로 분리, 이름은 영어 (§10) | v0.3 |
+| 8 | 저장소 | **`hurick-idle`** (확정) | v0.3 |
 
 ---
 
